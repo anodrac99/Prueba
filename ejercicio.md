@@ -1,3 +1,2 @@
 ayuda
-
-1.Juan Esteban Cardona
+1. Juan E Cardona
